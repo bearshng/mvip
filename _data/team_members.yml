@@ -1,0 +1,214 @@
+- name: 熊凤超
+  photo: Fengchao.jpg
+  info: 副教授, 负责人
+  short_bio: 熊凤超，南京理工大学副教授。于2014年在山东大学获得学士学位，2019年在浙江大学获得博士学位。分别在2011-2012，2017-2018，2021-2023在武汉大学，格里菲斯大学，澳门大学进行学术交流。主要研究方向包括高光谱视觉和遥感影像分析等。在IEEE TIP，TGRS等国际期刊上发表了10余篇论文，其中包括1篇高被引论文。曾获得IEEE TGRS最佳审稿人奖，DICTA最佳学生论文奖，以及中国研究生人工智能创新大赛优秀指导教师等荣誉，入选澳门青年学者计划和江苏省双创博士。主持国家自然科学基金青年项目、面上项目，江苏省自然科学基金青年项目，南京理工大学青年人才培育项目，173项目子课题，以及重点实验室开放课题等多个项目。担任IEEE TGRS主题编委，Remote Sensing客座主编，IET CV特刊编委，以及ICME领域主席等。
+  email: fcxiong@njust.edu.cn
+  website: http://www.xiongfuli.com/cv/index.html
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education:
+
+# - name: Jun Zhou
+#   photo: jun.jpg
+#   info: Professor, 
+#   short_bio: Jun Zhou (Senior Member, IEEE) received the B.S. degree in computer science and the B.E. degree in international business from the Nanjing University of Science and Technology, Nanjing, China, in 1996 and 1998, respectively, the M.S. degree in computer science from Concordia University, Montreal, QC, Canada, in 2002, and the Ph.D. degree in computing science from the University of Alberta, Edmonton, AB, Canada, in 2006.,He was a Research Fellow with the Research School of Computer Science, The Australian National University, Canberra, ACT, Australia, and a Researcher with the Canberra Research Laboratory, National Information and Communications Technology Australia, Canberra. In 2012, he joined the School of Information and Communication Technology, Griffith University, Nathan, QLD, Australia, where he is currently an Associate Professor. His research interests include pattern recognition, computer vision, and spectral imaging and their applications in remote sensing and environmental informatics.
+#   topics:
+#   email: jun.zhou@griffith.edu.au
+#   website: https://experts.griffith.edu.au/7205-jun-zhou
+#   number_educ: 0
+#   education1: 
+#   education2:
+#   education3:
+#   education4:  
+  
+# - name: Salman Toor
+#   photo: Toor.png
+#   info: Associate Professor
+#   short_bio: Salman Toor is an Associate Professor at the Division of Scientific Computing, Department of Information Technology, Uppsala University, Sweden. He earned his Masters and PhD in Scientific Computing from Uppsala University. In 2014, Toor finished his postdoctoral research from CMS program, Helsinki Institute of Physics, Finland. His area of expertise includes management, scalability and performance of distributed infrastructures for scientific applications. Toor is an active member of Distributed Computing Applications (DCA) group at Uppsala University. From 2015-2017, Toor was employed as a researcher in the Department of Information Technology, Uppsala University and as a senior cloud architect at Swedish National Infrastructure for Computing (SNIC). His research focuses on Distributed Computing Infrastructures.
+#   topics:
+#   email: salman.toor@it.uu.se
+#   website: https://katalog.uu.se/profile/?id=N7-398
+#   number_educ: 0
+#   education1: 
+#   education2:
+#   education3:
+#   education4:  
+  
+# - name: Torbjörn Wigren
+#   photo: Torbjorn.jpg
+#   info: Guest Researcher
+#   short_bio: Torbjörn Wigren is a Guest Researcher at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. He received the M.Sc. degree in engineering physics (electrical engineering) in 1985, and the Dr. of Technology degree in automatic control in 1990, both from Uppsala University, Uppsala Sweden. His main employer from 2001 is Ericsson AB, where he is a Principal Developer, responsible for R&D on radio near feedback control and signal processing algorithms for 5G and 6G cellular systems. Before joining Ericsson, he held positions with Bofors Aerotronics (1985-1991), Ericsson Radio Systems (1991-1995) and Celsius Tech Systems (1995-2001) where he was involved in development of fire control systems, audio signal processing, and passive air-target tracking. During 2000 - 2018 he was Adjunct Professor of Automatic Control at Uppsala University. His research is focused on nonlinear dynamic systems, including recursive identification, optimal control and estimation, as well as on the use of feedback principles in machine learning.
+#   topics:
+#   email: Torbjorn.Wigren@it.uu.se
+#   website: http://www.it.uu.se/katalog/tw
+#   number_educ: 0
+#   education1: 
+#   education2:
+#   education3:
+#   education4:  
+  
+# - name: Per Mattsson
+#   photo: PerMatsson1.jpg
+#   info: Associate Professor
+#   short_bio: Per Mattsson is an Associate Professor in automatic control in the Department of Information Technology at Uppsala University. He received his Ph.D. degree in automatic control and system identification from Uppsala University in 2016. Mattsson’s research focuses on the development and analysis of data-driven methods for modeling, control, and predictive maintenance.
+#   topics:
+#   email: per.mattsson@it.uu.se
+#   website: https://katalog.uu.se/profile/?id=N10-1806
+#   number_educ: 0
+#   education1: 
+#   education2:
+#   education3:
+#   education4:
+
+# - name: Ruslan Seifullaev
+#   photo: ruslan.jpg
+#   info: Postdoc, started August 2023
+#   short_bio: Ruslan Seifullaev is a Postdoctoral Researcher at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. He received the Diploma (M.Sc.) degree in theoretical cybernetics and the Candidate of Science (Ph.D.) degree in discrete mathematics and mathematical cybernetics from St. Petersburg University in 2012 and 2016, respectively. From 2014 to 2018, he was employed as a Research Engineer at the Institute of Problems in Mechanical Engineering of Russian Academy of Sciences. In 2023, he received the Ph.D. degree in signal processing from the Division of Signals and Systems, Uppsala University. His research interests include nonlinear control theory, time-delay systems, and networked control systems.
+#   topics: 
+#   email: ruslan.seifullaev@angstrom.uu.se
+#   website: https://www.katalog.uu.se/empinfo/?id=N18-1190
+#   number_educ: 0
+#   education1: 
+#   education2:
+#   education3:
+#   education4:
+
+# - name: Daniel Arnström
+#   photo: daniel.jpeg
+#   info: Postdoc, started August 2023
+#   short_bio: Daniel Arnström is a Postdoc at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. He received the Ph.D in automatic control from Linköping University, Sweden, in 2023. Previously, he had received M.Sc and Licentiate degrees from Linköping University in 2018 and 2021, respectively. At the 22nd World Congress of the International Federation of Automatic Control (IFAC) he was awarded the Young Author Prize (YAP) for his work on embedded optimization solvers. His research interests include reliable embedded optimization and reliable real-time Model Predictive Control (MPC); for reliability, his research interests include computational, safety, and security aspects.
+#   topic: 
+#   email: daniel.arnstrom@it.uu.se
+#   website: https://darnstrom.github.io/
+#   number_educ: 0
+#   education1: 
+#   education2:
+#   education3:
+#   education4:
+
+# - name: Alain Govaert
+#   photo: Alain.jpg
+#   info: Postdoc, started September 2023
+#   short_bio: Alain Govaert is a Postdoctoral researcher at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. He received the M.Sc. degree in Industrial Engineering and the Ph.D. degree in automatic control from the Faculty of Sciences at University of Groningen in the Netherlands in 2015 and 2020, respectively. His research interests include complex systems theory, game theory, random graphs, and control systems.
+#   topic: 
+#   email: alain.govaert@it.uu.se
+#   website: https://www.katalog.uu.se/profile/?id=N23-2090
+#   number_educ: 0
+#   education1: 
+#   education2:
+#   education3:
+#   education4:  
+
+# - name: Jingwei Dong
+#   photo: jingwei.jpg
+#   info: Postdoc, started January 2024
+#   short_bio: Jingwei Dong is a Postdoctoral Researcher at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. He received the M. Eng degree in Control Science and Engineering from Harbin Institute of Technology, China, in 2018, and the Ph.D. degree in Systems and Control from Delft Center for Systems and Control, TU Delft, The Netherlands, in 2023. His research interests include optimization-based fault diagnosis, security of cyber-physical systems, control theory, and optimization methods.
+#   topic: 
+#   email:  jingwei.dong@it.uu.se
+#   website: https://www.katalog.uu.se/profile/?id=N24-18
+#   number_educ: 0
+#   education1: 
+#   education2:
+#   education3:
+#   education4:  
+
+# - name: 李专峰
+#   photo: lzf.png
+#   info: 博士研究生, 2020级
+#   short_bio: Zhuanfeng Li received the B.E. degree in computer science and technology from Wuxi University, Wuxi, China, in 2018. He is currently pursuing the Ph.D. degree in computer science and technology with the School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China.,His research interests include hyperspectral video tracking and machine learning.
+#   topics: 
+#   number_educ: 0
+#   education1: 
+
+# - name: 傅冠夷蛮
+#   photo: fu.png
+#   info: 博士研究生, 2021级
+#   short_bio: Guanyiman Fu received the B.E. degree in bioengineering from Northwest Agriculture and Forestry University, Xianyang, China, in 2017. He is currently pursuing the Ph.D. degree in computer science and technology with the School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China.,His research interests include hyperspectral image restoration and machine learning.
+#   topics: 
+#   email: fatihemre.tosun@angstrom.uu.se
+#   website:
+#   number_educ: 0
+#   education1: 
+
+# - name: 刘正宇
+#   photo: liu.jpg
+#   info: 博士研究生, 2021级
+#   short_bio: 研究高光谱图像分类
+#   topics: 
+#   email: anh.tung.nguyen@it.uu.se
+#   website: 
+#   number_educ: 0
+#   education1: 
+
+# - name: 安泊舟
+#   photo: Tung1.jpg
+#   info: 博士研究生, 2021级
+#   short_bio: 研究高光谱数据融合
+#   topics: 
+#   email: anh.tung.nguyen@it.uu.se
+#   website: 
+#   number_educ: 0
+#   education1: 
+
+# - name: 孙永乐
+#   photo: sun.jpg
+#   info: 硕士研究生, 2022级
+#   short_bio: 研究高光谱目标跟踪
+#   topics: 
+#   email: usama.zafar@it.uu.se
+#   website: 
+#   number_educ: 0
+#   education1:  
+
+
+# - name: 张艺君
+#   photo: sun.jpg
+#   info: 硕士研究生, 2022级
+#   short_bio: 研究遥感变化检测
+#   topics: 
+#   email: usama.zafar@it.uu.se
+#   website: 
+#   number_educ: 0
+#   education1:  
+
+# - name: 吴振兴
+#   photo: wu.jpg
+#   info: 硕士研究生, 2023级
+#   short_bio: 研究高光谱目标跟踪
+#   topics: 
+#   email: lovisa.eriksson@it.uu.se
+#   website: https://lovisaluna.github.io/
+#   number_educ: 0
+#   education1:  
+
+# - name: 叶瑾
+#   photo: ye.jpg
+#   info: 硕士研究生, 2023级
+#   short_bio: 南京理工大学计算机学院本科，研究高光谱底层图像处理
+#   topics: 
+#   email: alessandro.varalda@it.uu.se
+#   website: 
+#   number_educ: 0
+#   education1:  
+
+# - name: 於钱力
+#   photo: alessandro.jpg
+#   info: 硕士研究生, 2024级
+#   short_bio: 南京理工大学计算机学院本科，研究高光谱目标跟踪
+#   topics: 
+#   email: alessandro.varalda@it.uu.se
+#   website: 
+#   number_educ: 0
+#   education1: 
+
+# - name: 张雄
+#   photo: alessandro.jpg
+#   info: 硕士研究生, 2024级
+#   short_bio: 南京理工大学计算机学院本科，研究高光谱目标检测
+#   topics: 
+#   email: alessandro.varalda@it.uu.se
+#   website: 
+#   number_educ: 0
+#   education1: 

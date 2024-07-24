@@ -1,0 +1,86 @@
+- title: "Hyperspectral Computer Vision"
+  key: "secmetrics"
+  hasimage: 1
+  width: 80%
+  image: HSI.png
+  description: Computer Vision refers to using cameras and computers to replace human eyes for processing, recognizing, tracking, and measuring targets. Current computer vision research mainly relies on spatial structural information of the targets, while neglecting the rich physical material properties contained in the spectral dimension of the targets. This leads to failures in complex scenarios such as small targets and background interference. Hyperspectral imaging technology transcends the morphological structural characteristics of targets by comprehensively utilizing detailed spectral information and spatial information obtained by imaging spectrometers, providing more physical material information conducive to target recognition and localization. With the advent of low-cost hyperspectral video cameras, vision research based on hyperspectral data has become more feasible and practical, also providing important tools to overcome the application limitations of computer vision in specific fields such as agriculture and defense. Hyperspectral Vision combines the spatial structural characteristics and physical material information of targets for perception, recognition, and understanding, but faces challenges such as complex physical modeling of hyperspectral imaging environments, low spatial resolution with complex feature extraction, and a lack of dynamic analysis due to insufficient video data.
+  authors:  Sribalaji C. Anand, Anh Tung Nguyen, André M. H. Teixeira
+  year: 2019
+  tag: 10001
+  highlight: 1
+  news1:
+  news2: 
+  long: 0
+
+- title: "Remote Sensing Image Interpretation"
+  key: "secfedml"
+  hasimage: 1
+  width: 80%
+  image: rsi.png
+  description:  "Remote sensing images indeed offer an expansive view of the Earth, enabling us to observe and analyze various environmental and geographical phenomena. Remote sensing images can be captured from various platforms, including drones, satellites, and aircraft. Each platform offers different perspectives and resolutions, making it possible to monitor both large-scale and localized changes. By leveraging machine learning techniques to interpret these images, we can gain valuable insights into Earth's behavior and respond effectively to unexpected events. Currently, our group mainly focus on remote sensing change detection task which aims to identify surface changes from bitemporal images, is significant for many applications, such as environmental protection and disaster monitoring."
+  authors:  Usama Zafar, Salman Toor, André M. H. Teixeira
+  year: 2023
+  tag: 10003
+  highlight: 1
+  news1:
+  news2: 
+  long: 0
+
+
+# - title: "Multimoda Large Model"
+#   key: "secpancreas"
+#   hasimage: 1
+#   width: 60%
+#   image: GCM.jpg
+#   description:  "Artificial pancreas are envisioned medical systems whose function is to automatically regulate the blood glucose levels in patients with diabetes, with little to none human initervention. At the core of these systems we have an intellligent device autonomously deciding how much synthetic insulin and glucagon to infuse into the body through infusion pumps, based on data received from sensors located thoughout the body measuring, for instance, blood glucose levels in real-time. Data exchange among the controlling device, the pumps, and the sensors is critical. The whole system must operate safely, even in the presence of adversaries tampering with the communication or devices. \n\nIn this line of research, we develop schemes to monitor the sensor reading to detect anomalies, and distinguish them from natural unknown disturbances, such as meal intakes, physical exercise, among others."
+#   authors:  Fatih Emre Tosun, André M. H. Teixeira
+#   year: 2019
+#   tag: 10002
+#   highlight: 1
+#   news1:
+#   news2: 
+#   long: 0
+
+# - title: "Delay attacks on networked control systems"
+#   key: "delayattacks"
+#   hasimage: 1
+#   width: 60%
+#   image: Time_Delay.png
+#   description:  "Feedback loop delay is known to impose limitations on the achievable performance of control systems. In particular, delays can increase oscillations, reduce regulation accuracy, and may cause destabilization of the control system. Large enough delays may also cause the loss of communication packets between the sensors, the controller, and the actuators, resulting in denial-of-service at the controller. Delays and packet losses are important aspects to be considered in the context of control over wireless communication networks.
+# Unfortunately, delays can also be induced by malicious cyber-attacks that aim to disrupt the system. In the security context, it is important to understand how delays may be induced by adversaries and how the attacks may be disguised as natural properties of the communication channel. 
+# Our group investigates novel control-theoretic approaches for understanding, detecting, and mitigating attack-induced delays and packet losses, combining techniques from system identification, anomaly detection, and robust control."
+#   authors:  Torbjörn Wigren, Ruslan Seifullaev, André M. H. Teixeira
+#   year: 2022
+#   tag: 10004
+#   highlight: 1
+#   news1:
+#   news2: 
+#   long: 0
+
+# - title: "Security and resilience of networked dynamical systems"
+#   key: "MAS"
+#   hasimage: 1
+#   width: 80%
+#   image: secure_networkv2.png
+#   description:  "Sustained use of critical infrastructure, such as electrical power and water distribution networks, requires efficient management and control. Facilitated by the advancements in computational devices and non-proprietary communication technology, such as the Internet, the efficient operation of critical infrastructure relies on network decomposition into interconnected subsystems, thus forming networked control systems. However, the use of public and pervasive communication channels leaves these systems vulnerable to cyber attacks. This theme aims to create novel methodologies to enhance the security and resilience of networked dynamical systems under cyber attacks."
+#   authors:  Anh Tung Nguyen, Alain Govaert, André M. H. Teixeira, Sérgio Pequito
+#   year: 2021
+#   tag: 10005
+#   highlight: 1
+#   news1:
+#   news2: 
+#   long: 0
+
+# - title: "Privacy of networked dynamical systems"
+#   key: "Privacy"
+#   hasimage: 1
+#   width: 50%
+#   image: privacy_networked_systems.webp
+#   description: "Guaranteeing privacy in dynamical networks is particularly important in the pressing concern of privacy in distributed optimization scenarios common in machine learning and artificial intelligence. The intrinsic design of these networks traditionally depends on implicit trust among agents, raising significant privacy issues. We propose a novel approach that integrates control theory and optimization techniques to address these privacy concerns. Our approach aims to refine network architectures and communication protocols, ensuring that the privacy of individual agents is preserved while maintaining the efficacy of collective decision-making processes. This advancement in network design is poised to substantially improve the handling of privacy in dynamical networks, facilitating their reliable and private application in various settings."
+#   authors: André M. H. Teixeira, Sérgio Pequito
+#   year: 2023
+#   tag: 10006
+#   highlight: 1
+#   news1:
+#   news2: 
+#   long: 0
