@@ -11,7 +11,7 @@ email: fcxiong@njust.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
   Website of Computer Vision and Remote Sensing Group.
 baseurl: ""
-url: "https://bearshng.github.io/mvip/"
+url: "https://bearshng.github.io/"
 
 include:
   - .htaccess
