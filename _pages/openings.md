@@ -50,14 +50,8 @@ Other types of PhD and Postdoc positions may also be possible, for instance thro
 
 
 ### 硕士生招生
-If you are a Master or Bachelor student at Uppsala University looking for a degree project, contact me (or any group member) per email or drop by my office.
+课题组学术氛围浓厚、资源充足，师生关系融洽。与国内外一流课题组合作紧密，会为学生提供全方位的科研指导，
+助力学生发表高水平论文和获得高薪工作。拟招收2025年秋季入学硕士研究生2-3名，欢迎英语好，动手能力强的学生通过邮件或电话联系。
 
-At the moment, we have several proposals for MSc thesis projects at our group, candidates are interviewed continuously **until early December 2023**. See [the list and details](https://tinyurl.com/MSc2024-SysCon) for how to apply!
-
-### Master students from elsewhere
-If you are interested in pursuing a Master degree at Uppsala University, see [the University's website](https://www.uu.se/en/admissions/master/). We may take external master students for a degree project or a short stay on their own funding, if we get exceptional applicants (this usually means very good grades and a personal recommendation).
-
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/UU_students_ad_photo.jpg" width="95%">
-</figure>
+### 本科生招生
+欢迎本科生选择做科研训练、毕业设计等。前期科研训练同学被南京大学、北京航空航天大学，清华大学等录取，并被学院官方[报导](https://mp.weixin.qq.com/s/B-dGb_rgt4AL4cFVRG-EFg)。
