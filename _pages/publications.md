@@ -12,7 +12,7 @@ permalink: /publications/
 
 (See also the personal webpage of our group members) -->
 
-## Selected Pulications
+<!-- ## Selected Pulications
 
 (For a full list of publications, see [below](#list-of-publications), and see also the personal webpage of our group members)
 
@@ -68,7 +68,7 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+<p> &nbsp; </p> -->
 
 
 ## List of Publications
