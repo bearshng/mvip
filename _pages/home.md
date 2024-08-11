@@ -47,7 +47,7 @@ Our research integrates elements of machine learning, pattern recognition, and s
 ### Scientific environment
 We are a dynamic research group at the [ School of Computer Science and Engineering, Nanjing University of Science and Technology](http://www.njust.edu.cn/), China. We exchange ideas and work with groups home and abroad, namely [Zhejiang University](https://person.zju.edu.cn/ytqian), [University of Macau](https://www.fst.um.edu.mo/personal/jtzhou/) and [Griffith University](https://experts.griffith.edu.au/7205-jun-zhou). 
 
- **We are looking for driven new Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+ **We are looking for self-motivated  Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
 <!-- ### Our support

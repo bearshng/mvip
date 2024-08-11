@@ -17,7 +17,7 @@
 - name: 刘正宇
   photo: liu.jpg
   position: 博士研究生(导师:赵春霞教授), 2021级
-  topics: 研究高光谱图像分类
+  topics: 高光谱图像分类
   publications: 
   number_educ: 0
   education1:  
@@ -25,7 +25,7 @@
 - name: 安泊舟
   photo: an.jpg
   position: 博士研究生(导师:赵春霞教授), 2021级
-  topics: 研究高光谱数据融合
+  topics: 高光谱数据融合
   publications: 
   number_educ: 0
   education1:  
@@ -34,7 +34,7 @@
 - name: 孙永乐
   photo: sun.jpg
   position: 硕士研究生, 2022级
-  topics: 研究高光谱目标跟踪
+  topics: 高光谱目标跟踪
   publications: 全国人工智能应用场景创新挑战赛全国二等奖
   number_educ: 0
   education1:  
@@ -43,7 +43,7 @@
 - name: 张艺君
   photo: zhang.jpg
   position: 硕士研究生(导师:陆建峰教授), 2022级
-  topics: 研究遥感变化检测
+  topics: 遥感变化检测
   publications: IGARSS 2024
   number_educ: 0
   education1:  
@@ -51,7 +51,7 @@
 - name: 吴振兴
   photo: wu.jpg
   position: 硕士研究生, 2023级
-  topics: 研究高光谱目标跟踪
+  topics: 高光谱目标跟踪
   publications: 
   number_educ: 0
   education1:  
@@ -59,7 +59,7 @@
 - name: 叶瑾
   photo: ye.jpg
   position: 硕士研究生, 2023级
-  topics: 研究高光谱底层图像处理
+  topics: 高光谱底层图像处理
   publications: TGRS 2024(Under Review)
   number_educ: 0
   education1: 
@@ -67,7 +67,7 @@
 - name: 於钱力
   photo: yu.jpg
   position: 硕士研究生, 2024级
-  topics: 研究高光谱目标跟踪
+  topics: 高光谱目标跟踪
   publications: DIGIX 2023江苏省三等奖
   number_educ: 0
   education1: 
@@ -75,7 +75,15 @@
 - name: 张雄
   photo: zhangx.jpg
   position: 硕士研究生, 2024级
-  topics: 研究高光谱目标检测
+  topics: 高光谱目标检测
   publications: DIGIX 2023江苏省三等奖
   number_educ: 0
   education1: 
+
+- name: 郝旺
+  photo: hao.png
+  position: 硕士研究生, 2024级
+  topics: 遥感变化检测
+  publications: 
+  number_educ: 0
+  education1:  
