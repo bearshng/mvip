@@ -52,7 +52,7 @@
   photo: wu.jpg
   position: 硕士研究生, 2023级
   topics: 高光谱目标跟踪
-  publications: 
+  publications: AAAI 2025(在投) 
   number_educ: 0
   education1:  
 
@@ -60,7 +60,7 @@
   photo: ye.jpg
   position: 硕士研究生, 2023级
   topics: 高光谱底层图像处理
-  publications: TGRS 2024(Under Review)
+  publications: TGRS 2024
   number_educ: 0
   education1: 
 
@@ -84,6 +84,14 @@
   photo: hao.png
   position: 硕士研究生, 2024级
   topics: 遥感变化检测
+  publications: 
+  number_educ: 0
+  education1:  
+
+- name: 胡涵煜
+  photo: hu.png
+  position: 硕士研究生, 2024级
+  topics: 高光谱目标跟踪
   publications: 
   number_educ: 0
   education1:  
