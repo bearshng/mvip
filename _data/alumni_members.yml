@@ -2,6 +2,7 @@
   photo: lzf.png
   position: 博士研究生(导师:陆建峰教授), 2020级
   topics: 高光谱目标跟踪
+  undergraduate: 无锡学院软件工程
   publications: 国家公派留学基金;ICIP 2020; ICASSP 2022; TIP 2023; TGRS 2024 
   number_educ: 0
   education1: 
@@ -10,6 +11,7 @@
   photo: fu.png
   position: 博士研究生(导师:陆建峰教授), 2021级
   topics: 高光谱图像去噪；多模态大模型
+  undergraduate: 西北农林大学生物工程
   publications: 国家公派留学基金; IGARSS 2021; TGRS 2022; TGRS 2024; TGRS 2024
   number_educ: 0
   education1:
@@ -18,6 +20,7 @@
   photo: liu.jpg
   position: 博士研究生(导师:赵春霞教授), 2021级
   topics: 高光谱图像分类
+  undergraduate: 河海大学自动化
   publications: 
   number_educ: 0
   education1:  
@@ -26,6 +29,7 @@
   photo: an.jpg
   position: 博士研究生(导师:赵春霞教授), 2021级
   topics: 高光谱数据融合
+  undergraduate: 吉林大学
   publications: 
   number_educ: 0
   education1:  
@@ -35,6 +39,7 @@
   photo: sun.jpg
   position: 硕士研究生, 2022级
   topics: 高光谱目标跟踪
+  undergraduate: 青岛科技大学
   publications: 全国人工智能应用场景创新挑战赛全国二等奖
   number_educ: 0
   education1:  
@@ -44,6 +49,7 @@
   photo: zhang.jpg
   position: 硕士研究生(导师:陆建峰教授), 2022级
   topics: 遥感变化检测
+  undergraduate: 南京信息工程大学
   publications: IGARSS 2024
   number_educ: 0
   education1:  
@@ -52,6 +58,7 @@
   photo: wu.jpg
   position: 硕士研究生, 2023级
   topics: 高光谱目标跟踪
+  undergraduate: 南京理工大学数学系
   publications: AAAI 2025(在投) 
   number_educ: 0
   education1:  
@@ -60,6 +67,7 @@
   photo: ye.jpg
   position: 硕士研究生, 2023级
   topics: 高光谱底层图像处理
+  undergraduate: 南京理工大学软件工程
   publications: TGRS 2024
   number_educ: 0
   education1: 
@@ -68,6 +76,7 @@
   photo: yu.jpg
   position: 硕士研究生, 2024级
   topics: 高光谱目标跟踪
+  undergraduate: 南京理工大学软件工程
   publications: DIGIX 2023江苏省三等奖
   number_educ: 0
   education1: 
@@ -76,14 +85,16 @@
   photo: zhangx.jpg
   position: 硕士研究生, 2024级
   topics: 高光谱目标检测
+  undergraduate: 南京理工大学计算机
   publications: DIGIX 2023江苏省三等奖
   number_educ: 0
   education1: 
 
 - name: 郝旺
   photo: hao.png
-  position: 硕士研究生, 2024级
+  position: 硕士研究生, 2024级(士兵计划)
   topics: 遥感变化检测
+  undergraduate: 常熟理工学院计算机
   publications: 
   number_educ: 0
   education1:  
@@ -92,6 +103,16 @@
   photo: hu.png
   position: 硕士研究生, 2024级
   topics: 高光谱目标跟踪
+  undergraduate: 长沙理工大学通信工程
+  publications: 
+  number_educ: 0
+  education1:  
+
+- name: 匡茗璐
+  photo: kuang.png
+  position: 硕士研究生, 2025级
+  topics: 高光谱目标检测
+  undergraduate: 南京理工大学计算机
   publications: 
   number_educ: 0
   education1:  
