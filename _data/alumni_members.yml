@@ -3,7 +3,7 @@
   position: 博士研究生(导师:陆建峰教授), 2020级
   topics: 高光谱目标跟踪
   undergraduate: 无锡学院软件工程
-  publications: 国家公派留学基金;ICIP 2020; ICASSP 2022; TIP 2023; TGRS 2024 
+  publications: 国家公派留学基金;ICIP 2020; ICASSP 2022; TIP 2023; TGRS 2024;  PR 2024(在投)
   number_educ: 0
   education1: 
 
@@ -40,7 +40,7 @@
   position: 硕士研究生, 2022级
   topics: 高光谱目标跟踪
   undergraduate: 青岛科技大学
-  publications: 全国人工智能应用场景创新挑战赛全国二等奖
+  publications: 全国人工智能应用场景创新挑战赛全国二等奖; TGRS 2024(在投)
   number_educ: 0
   education1:  
 
@@ -111,8 +111,26 @@
 - name: 匡茗璐
   photo: kuang.png
   position: 硕士研究生, 2025级
-  topics: 高光谱目标检测
+  topics: 无人机高光谱目标检测
   undergraduate: 南京理工大学计算机
   publications: 
   number_educ: 0
   education1:  
+- name: 刘莹莹
+  photo: liuyy.png
+  position: 硕士研究生, 2025级
+  topics: 高光谱变化检测
+  undergraduate: 南京理工大学计算机
+  publications: 
+  number_educ: 0
+  education1: 
+- name: 莫振荣
+  photo: mozr.jpg 
+  position: 硕士研究生, 2025级
+  topics: 无人机高光谱目标跟踪
+  undergraduate: 南京理工大学计算机
+  publications: 
+  number_educ: 0
+  education1: 
+
+  
