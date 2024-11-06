@@ -16,6 +16,8 @@ Our vision is to develop methodologies for designing intelligent autonomous deci
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
+         <li data-target="#carousel" data-slide-to="4"></li>
+        <!-- <li data-target="#carousel" data-slide-to="4"></li> -->
                 <!-- <li data-target="#carousel" data-slide-to="4"></li> -->
     </ol>
 
@@ -33,9 +35,9 @@ Our vision is to develop methodologies for designing intelligent autonomous deci
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/activity.png" height="4" alt="Slide 4" />
         </div>
-        <!--  <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/activity2.png" height="4" alt="Slide 4" />
-        </div>   -->   
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/team3.jpg" height="5" alt="Slide 5" />
+        </div>  
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
