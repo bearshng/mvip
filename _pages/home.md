@@ -53,7 +53,7 @@ Our vision is to develop methodologies for designing intelligent autonomous deci
 ### Research
 Our research integrates elements of machine learning, pattern recognition, and signal processing, with their applications in remote sensing image interpretation, smart agriculture, and smart city development. You can find an overview of some of our research themes at our [Research page](research).
 
-南京理工大学视觉与遥感团队成功研发了多模态高光谱视频采集与处理系统，能够同步采集配准的波长范围为400-1000nm的多模态高光谱视频。我们已经在无人车和无人机上进行了搭载，可以提供数据采集与处理服务，也欢迎学术界、工业界项目合作。具体信息见<a href="/assets/MHSI.pptx"> PPT</a>。
+南京理工大学视觉与遥感团队成功研发了多模态高光谱视频采集与处理系统，能够同步采集配准的波长范围为400-1000nm的多模态高光谱视频。我们已经在无人车和无人机上进行了搭载，可以提供数据采集与处理服务，也欢迎学术界、工业界项目合作。具体信息见<a href="/mvip/assets/MHSI.pptx"> PPT</a>。
 
 ### Scientific environment
 We are a dynamic research group at the [ School of Computer Science and Engineering, Nanjing University of Science and Technology](http://www.njust.edu.cn/), China. We exchange ideas and work with groups home and abroad, namely [Zhejiang University](https://person.zju.edu.cn/ytqian), [University of Macau](https://www.fst.um.edu.mo/personal/jtzhou/) and [Griffith University](https://experts.griffith.edu.au/7205-jun-zhou). 
