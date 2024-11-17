@@ -88,6 +88,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
  <br> {{ member.position }}
+ <br> 本科: {{member.undergraduate}}
  <br> 研究方向: {{member.topics}}
 <br> 成果: {{member.publications}}
   <ul style="overflow: hidden">
