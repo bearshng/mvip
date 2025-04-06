@@ -1,11 +1,11 @@
-- name: 李专峰
-  photo: lzf.png
-  position: 博士研究生(导师:陆建峰教授), 2020级
-  topics: 高光谱目标跟踪
-  undergraduate: 无锡学院软件工程
-  publications: 国家公派留学基金;ICIP 2020; ICASSP 2022; TIP 2023; TGRS 2024;  PR 2024(在投)
-  number_educ: 0
-  education1: 
+# - name: 李专峰
+#   photo: lzf.png
+#   position: 博士研究生(导师:陆建峰教授), 2020级
+#   topics: 高光谱目标跟踪
+#   undergraduate: 无锡学院软件工程
+#   publications: 国家公派留学基金;ICIP 2020; ICASSP 2022; TIP 2023; TGRS 2024;  PR 2024(在投)
+#   number_educ: 0
+#   education1: 
 
 - name: 傅冠夷蛮
   photo: fu.png

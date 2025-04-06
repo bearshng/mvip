@@ -3,7 +3,7 @@ title: "Secure Learning and Control Lab - Publications"
 layout: gridlay
 excerpt: "Secure Learning and Control Lab -- Publications."
 sitemap: false
-years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]
+years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]
 permalink: /publications/
 ---
 <!-- _pages/publications.md -->
