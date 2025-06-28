@@ -49,11 +49,11 @@ Applications for fully-funded PhD or Postdoc positions can only be done for a sp
 Other types of PhD and Postdoc positions may also be possible, for instance through the applicant's own fellowship or scholarship. If you are interested in working with us as a PhD student or postdoc, please send an [email](mailto:andre.teixeira@it.uu.se). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. -->
 
 课题组学术氛围浓厚、资源充足，师生关系融洽。与国内外一流课题组合作紧密，会为学生提供全方位的科研指导，
-助力学生发表高水平论文和获得高薪工作。课题组形成了博士-硕士-本科生的梯队。导师定期找研究同一方向的本、硕、博学生讨论，高年级的博士帮助带低年级的硕士，硕士帮助带本科生。
+助力学生发表高水平论文和获得高薪工作。请有意报考的同学注意：（1）本课题组培养具有独立思考能力的研究者或工程能力强的工程师，学业压力比较大。 （2）课题组以目标为导向，在完成或基本完成预定目标后，才允许实习。 （3）建议通过师兄师姐等多方面了解后，再认真联系，双向选择。
 
 ### 硕士生招生
 
-拟招收2025年秋季入学硕士研究生2-3名，欢迎英语好，动手能力强的学生通过邮件(fcxiong@njust.edu.cn)或电话(17816856687)联系。
+拟招收2025年秋季入学硕士研究生3-4名，欢迎英语好，动手能力强的学生通过邮件(fcxiong@njust.edu.cn)或电话(17816856687)联系。
 
 ### 本科生招生
 欢迎本科生选择做科研训练、毕业设计等。前期科研训练同学被南京大学、北京航空航天大学，清华大学等录取，并被学院官方[报导](https://mp.weixin.qq.com/s/B-dGb_rgt4AL4cFVRG-EFg)。
