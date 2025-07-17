@@ -9,7 +9,7 @@
 
 - name: 傅冠夷蛮
   photo: fu.png
-  position: 博士研究生(导师:陆建峰教授), 2021级
+  position: 博士研究生, 2021级
   topics: 高光谱图像去噪；多模态大模型
   undergraduate: 西北农林大学生物工程
   publications: 国家公派留学基金; 国家奖学金; IGARSS 2021; TGRS 2022; TGRS 2024; TGRS 2024;
@@ -18,7 +18,7 @@
 
 - name: 刘正宇
   photo: liu.jpg
-  position: 博士研究生(导师:赵春霞教授), 2021级
+  position: 博士研究生, 2021级
   topics: 高光谱图像分类
   undergraduate: 河海大学自动化
   publications: 
@@ -27,7 +27,7 @@
 
 - name: 安泊舟
   photo: an.jpg
-  position: 博士研究生(导师:赵春霞教授), 2021级
+  position: 博士研究生, 2021级
   topics: 高光谱数据融合
   undergraduate: 吉林大学
   publications: 
@@ -59,7 +59,7 @@
   position: 硕士研究生, 2023级
   topics: 高光谱目标跟踪
   undergraduate: 南京理工大学数学系
-  publications: AAAI 2025(在投) 
+  publications: TIP 2025(在投) 
   number_educ: 0
   education1:  
 
@@ -68,7 +68,7 @@
   position: 硕士研究生, 2023级
   topics: 高光谱底层图像处理
   undergraduate: 南京理工大学软件工程
-  publications: 国家奖学金; TGRS 2024
+  publications: 国家奖学金; TGRS 2024; TGRS 2025(大修)
   number_educ: 0
   education1: 
 
@@ -95,7 +95,7 @@
   position: 硕士研究生, 2024级(士兵计划)
   topics: 遥感变化检测
   undergraduate: 常熟理工学院计算机
-  publications: DIGIX 2024全国二等奖
+  publications: DIGIX 2024全国二等奖； TGRS 2025(在投)
   number_educ: 0
   education1:  
 
