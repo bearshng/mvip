@@ -1,7 +1,7 @@
 ---
-title: "Secure Learning and Control Lab - Home"
+title: "Computer Vision and Remote Sesning Group - Home"
 layout: homelay
-excerpt: "Secure Learning and Control Lab at Uppsala University."
+excerpt: "Computer Vision and Remote Sesning Group at NJUST."
 sitemap: false
 permalink: /
 ---
@@ -54,6 +54,32 @@ Our vision is to develop methodologies for designing intelligent autonomous deci
 Our research integrates elements of machine learning, pattern recognition, and signal processing, with their applications in remote sensing image interpretation, smart agriculture, and smart city development. You can find an overview of some of our research themes at our [Research page](research).
 
 南京理工大学视觉与遥感团队成功研发了多模态高光谱视频采集与处理系统，能够同步采集配准的波长范围为400-1000nm的多模态高光谱视频。我们已经在无人车和无人机上进行了搭载，可以提供数据采集与处理服务，也欢迎学术界、工业界项目合作。具体信息见<a href="/mvip/assets/MHSI.pptx"> PPT</a>。
+
+### Recruitment
+
+The Visual and Remote Sensing Team at Nanjing University of Science and Technology is recruiting undergraduates and research assistants to work on the following research topics:
+
+
+- Multimodal optoelectronic large models and their applications in agriculture and manufacturing
+
+- Hyperspectral video object detection and tracking for low-altitude security assurance
+
+- Multimodal remote sensing image analysis for disaster early warning
+
+Competitive stipends will be provided based on performance and results. Outstanding candidates may have opportunities to continue graduate studies within the team or be recommended to prestigious universities for further education. We warmly welcome you to join us!
+
+
+
+
+南京理工大学视觉与遥感团队现招募本科生及研究助理，参与以下方向研究：
+
+
+- 多模态光电大模型及其在农业与制造业的应用
+- 高光谱视频目标检测与跟踪及其在低空安全保障中的应用
+- 多模态遥感影像分析及其在灾害预警中的应用
+
+团队将根据科研表现与成果提供相应补助，表现优异者可优先保研或留组攻读硕/博，并有机会推荐至国内外知名高校深造。期待你的加入！
+
 
 ### Scientific environment
 We are a dynamic research group at the [ School of Computer Science and Engineering, Nanjing University of Science and Technology](http://www.njust.edu.cn/), China. We exchange ideas and work with groups home and abroad, namely [Zhejiang University](https://person.zju.edu.cn/ytqian), [University of Macau](https://www.fst.um.edu.mo/personal/jtzhou/) and [Griffith University](https://experts.griffith.edu.au/7205-jun-zhou). 

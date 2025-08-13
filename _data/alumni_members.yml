@@ -21,7 +21,7 @@
   position: 博士研究生, 2021级
   topics: 高光谱图像分类
   undergraduate: 河海大学自动化
-  publications: 
+  publications: RS 2025
   number_educ: 0
   education1:  
 
@@ -45,14 +45,14 @@
   education1:  
 
 
-- name: 张艺君
-  photo: zhang.jpg
-  position: 硕士研究生(导师:陆建峰教授), 2022级
-  topics: 遥感变化检测
-  undergraduate: 南京信息工程大学
-  publications: IGARSS 2024; 挑战杯专项赛全国二等奖;
-  number_educ: 0
-  education1:  
+# - name: 张艺君
+#   photo: zhang.jpg
+#   position: 硕士研究生(导师:陆建峰教授), 2022级
+#   topics: 遥感变化检测
+#   undergraduate: 南京信息工程大学
+#   publications: IGARSS 2024; 挑战杯专项赛全国二等奖;
+#   number_educ: 0
+#   education1:  
 
 - name: 吴振兴
   photo: wu.jpg
