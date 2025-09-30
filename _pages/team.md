@@ -34,7 +34,7 @@ permalink: /team/
 
 # 组内成员
 
- **拟招2025年秋季入学硕士研究生2-3名，欢迎计算机、软件、电子、控制、物理、数学等相关专业学生通过邮件或电话联系。** [(招生信息见)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+ **拟招收2026年秋季入学士兵计划或非全日制硕士研究生1-2名，欢迎计算机、软件、电子、控制、物理、数学等相关专业学生通过邮件或电话联系。** [(招生信息见)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students).

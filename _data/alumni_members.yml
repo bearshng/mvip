@@ -35,14 +35,14 @@
   education1:  
 
 
-- name: 孙永乐
-  photo: sun.jpg
-  position: 硕士研究生, 2022级
-  topics: 高光谱目标跟踪
-  undergraduate: 青岛科技大学
-  publications: 全国人工智能应用场景创新挑战赛全国二等奖; TGRS 2024(大修)
-  number_educ: 0
-  education1:  
+# - name: 孙永乐
+#   photo: sun.jpg
+#   position: 硕士研究生, 2022级
+#   topics: 高光谱目标跟踪
+#   undergraduate: 青岛科技大学
+#   publications: 全国人工智能应用场景创新挑战赛全国二等奖; TGRS 2025
+#   number_educ: 0
+#   education1:  
 
 
 # - name: 张艺君
@@ -95,7 +95,7 @@
   position: 硕士研究生, 2024级(士兵计划)
   topics: 遥感变化检测
   undergraduate: 常熟理工学院计算机
-  publications: DIGIX 2024全国二等奖； TGRS 2025(在投)
+  publications: DIGIX 2024全国二等奖； PR 2025(在投)
   number_educ: 0
   education1:  
 
@@ -119,7 +119,7 @@
 - name: 刘莹莹
   photo: liuyy.png
   position: 硕士研究生, 2025级
-  topics: 高光谱变化检测
+  topics: 跨模态变化检测
   undergraduate: 南京理工大学计算机
   publications: 
   number_educ: 0
@@ -133,4 +133,40 @@
   number_educ: 0
   education1: 
 
+- name: 邵望
+  photo: sw.jpg 
+  position: 硕士研究生, 2025级
+  topics: 高光谱反无
+  undergraduate: 太原科技大学计算机
+  publications: 
+  number_educ: 0
+  education1: 
+
+- name: 王镜然
+  photo: wjr.jpg 
+  position: 硕士研究生, 2026级
+  topics: 高光谱底层图像处理
+  undergraduate: 南京理工大学软件工程
+  publications: 
+  number_educ: 0
+  education1: 
+
+- name: 冯璞欣
+  photo: fpx.png 
+  position: 硕士研究生, 2026级
+  topics: 高光谱大模型
+  undergraduate: 南京理工大学计算机
+  publications: 
+  number_educ: 0
+  education1: 
+
+- name: 刘健顺
+  photo: lsr.png 
+  position: 硕士研究生, 2026级
+  topics: 高光谱目标跟踪
+  undergraduate: 南京理工大学软件工程
+  publications: 
+  number_educ: 0
+  education1: 
+  
   
